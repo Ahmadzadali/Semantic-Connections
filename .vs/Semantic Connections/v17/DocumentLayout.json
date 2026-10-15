@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Murad\\Desktop\\Api\\Semantic Connections\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D8777D-A502-4A0E-B1DF-85E5CB00D1F7}|Semantic Connections\\Semantic Connections.csproj|c:\\users\\murad\\desktop\\api\\semantic connections\\semantic connections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D8777D-A502-4A0E-B1DF-85E5CB00D1F7}|Semantic Connections\\Semantic Connections.csproj|solutionrelative:semantic connections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Murad\\Desktop\\Api\\Semantic Connections\\Semantic Connections\\Program.cs",
+              "RelativeDocumentMoniker": "Semantic Connections\\Program.cs",
+              "ToolTip": "C:\\Users\\Murad\\Desktop\\Api\\Semantic Connections\\Semantic Connections\\Program.cs",
+              "RelativeToolTip": "Semantic Connections\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T06:03:32.729Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
